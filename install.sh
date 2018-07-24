@@ -1,7 +1,7 @@
 clear
 echo "******* Torghost installer ********"
 tput setaf 1; echo "Torghost made by Technical Dada"
-echo "=====> Installing tor bundle "
+tput setaf 2; echo "=====> Installing tor bundle "
 sudo apt-get install tor -y -qq
 echo "=====> Installing dependencies "
 sudo pip install stem
