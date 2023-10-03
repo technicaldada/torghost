@@ -1,3 +1,4 @@
+# Edited by KP
 clear
 echo "******* Torghost installer ********"
 tput setaf 1; echo "Torghost made by Technical Dada"
